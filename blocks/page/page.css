@@ -1,5 +1,5 @@
 .page {
-  max-width: 100%;
+  width: 100%;
   display: flex;
   min-width: 320px;
   flex-direction: column;
@@ -8,6 +8,7 @@
   justify-content: space-between;
   margin: 0 auto;
   box-sizing: border-box;
+  background-color: #fff;
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
   -webkit-text-size-adjust: 100%;
