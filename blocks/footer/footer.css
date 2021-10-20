@@ -1,11 +1,12 @@
 .footer {
   display: flex;
-  margin: auto;
+  margin: 0 auto;
+  /* margin-top: 130px; */
   width: 100%;
   max-width: 1280px;
   min-height: 620px;
   box-sizing: border-box;
-  background-color: #000;
+  background-color: rgb(244, 166, 98);
 }
 
  @media screen and (max-width: 1024px) {
