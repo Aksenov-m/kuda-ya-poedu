@@ -1,0 +1,10 @@
+.expectation__paragraph {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 163%;
+  color: #000;
+  margin: 0;
+  margin-bottom: 26px;
+  border: 0; 
+}

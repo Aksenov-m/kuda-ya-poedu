@@ -1,0 +1,12 @@
+.expectation {
+  max-width: 100%;
+  display: grid;
+  justify-items: center;
+  margin: 0 auto;
+  /* margin-top: 80px; */
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: minmax(230px, 534px);
+  /* gap: 48px 40px; */
+  grid-template-areas:
+  "expectation-image expectation-description"; 
+}

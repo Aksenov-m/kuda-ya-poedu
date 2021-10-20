@@ -8,3 +8,9 @@
 @import url(../blocks/flight/flight.css);
 @import url(../blocks/flight/__title/flight__title.css);
 @import url(../blocks/flight/__intro-image/flight__intro-image.css);
+@import url(../blocks/expectations/expectations.css);
+@import url(../blocks/expectation/expectation.css);
+@import url(../blocks/expectation/__image/expectation__image.css);
+@import url(../blocks/expectation/__description/expectation__description.css);
+@import url(../blocks/expectation/__title/expectation__title.css);
+@import url(../blocks/expectation/__paragraph/expectation__paragraph.css);
