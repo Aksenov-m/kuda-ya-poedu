@@ -1,3 +1,17 @@
 .expectation__title {
-    
+  margin: 0;
+  padding: 0;
+  max-width: 100%;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 35px;
+  line-height: 1.2;
+  color: #000;
 }
+
+@media screen and (max-width: 768px) {
+    .expectation__title {
+      font-size: 25px;
+      margin-bottom: 20px;
+     } 
+  }

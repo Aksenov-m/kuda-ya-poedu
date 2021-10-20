@@ -1,0 +1,9 @@
+.grid-image {
+  grid-area: expectation-description; 
+}
+
+@media screen and (max-width: 768px) {
+    .grid-image {
+      grid-area: expectation-image;
+     } 
+  }

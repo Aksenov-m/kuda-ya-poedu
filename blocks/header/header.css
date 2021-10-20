@@ -19,6 +19,7 @@
   @media screen and (max-width: 768px) {
     .header {
       margin-top: 30px;
+      margin-bottom: 30px;
       padding-left: 34px;
       padding-right: 34px;
     }
@@ -26,6 +27,7 @@
 
   @media screen and (max-width: 500px) {
     .header {
+      margin-bottom: 0;
       flex-direction: column;
       align-items: flex-start;
       gap: 18px;

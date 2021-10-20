@@ -14,3 +14,7 @@
 @import url(../blocks/expectation/__description/expectation__description.css);
 @import url(../blocks/expectation/__title/expectation__title.css);
 @import url(../blocks/expectation/__paragraph/expectation__paragraph.css);
+@import url(../blocks/grid-image/grid-image.css);
+@import url(../blocks/grid-description/grid-description.css);
+@import url(../blocks/paragraphs/paragraphs.css);
+@import url(../blocks/content/__paragraph/content__paragraph.css);

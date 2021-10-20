@@ -1,10 +1,17 @@
 .expectation__paragraph {
+  max-width: 370px;
   font-style: normal;
   font-weight: normal;
-  font-size: 18px;
-  line-height: 163%;
+  font-size: 15px;
+  line-height: 1.3;
   color: #000;
   margin: 0;
-  margin-bottom: 26px;
+  /* margin-bottom: 26px; */
   border: 0; 
 }
+
+@media screen and (max-width: 768px) {
+    .expectation__paragraph {
+      font-size: 12px;
+     } 
+  }

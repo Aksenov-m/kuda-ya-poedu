@@ -10,3 +10,12 @@
   grid-template-areas:
   "expectation-image expectation-description"; 
 }
+
+@media screen and (max-width: 768px) {
+    .expectation {
+      grid-template-columns: 1fr;
+      grid-template-areas:
+      "expectation-image"
+      "expectation-description"; 
+     } 
+  }
