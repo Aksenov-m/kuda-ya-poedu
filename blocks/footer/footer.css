@@ -1,0 +1,31 @@
+.footer {
+  display: flex;
+  margin: auto;
+  max-width: 1280px;
+  min-height: 620px;
+  box-sizing: border-box;
+  background-color: pink;
+}
+
+ @media screen and (max-width: 1024px) {
+  .footer {
+    min-height: 496px;
+  }
+
+ @media screen and (max-width: 768px) {
+  .footer {
+    min-height: 372px;
+  }
+}
+
+ @media screen and (max-width: 512px) {
+  .footer {
+    min-height: 248px;
+  }
+}
+
+ @media screen and (max-width: 320px) {
+  .footer {
+    min-height: 155px;
+  }
+}
