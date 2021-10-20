@@ -1,6 +1,7 @@
 .footer {
   display: flex;
   margin: auto;
+  width: 100%;
   max-width: 1280px;
   min-height: 620px;
   box-sizing: border-box;
