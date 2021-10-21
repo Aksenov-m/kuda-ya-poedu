@@ -1,5 +1,12 @@
 .flight__intro-image {
   /*border: 1px solid green;*/
-  width: 356px;
-  height: 356px;
+  max-width: 356px;
+  max-height: 356px;
+  /* position: absolute; */
+  object-fit: cover;
+  overflow: hidden;
+  /* object-position: right bottom; */
+  /* right: 0;
+  top: 0;
+  z-index: 2; */
 }
