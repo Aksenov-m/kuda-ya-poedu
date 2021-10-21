@@ -19,5 +19,14 @@
 @import url(../blocks/paragraphs/paragraphs.css);
 @import url(../blocks/content/__paragraph/content__paragraph.css);
 
+@import url(../blocks/reality/reality.css);
+@import url(../blocks/reality/__subtitle/reality__subtitle.css);
+@import url(../blocks/reality/__title/reality__title.css);
+@import url(../blocks/reality/__table/reality__table.css);
+@import url(../blocks/reality/__table-item/reality__table-item.css);
+@import url(../blocks/reality/__table-span-accent/reality__table-span-accent.css);
+@import url(../blocks/reality/__table-text/reality__table-text.css);
+
+
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__copyright/footer__copyright.css);
