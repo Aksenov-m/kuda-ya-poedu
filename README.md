@@ -13,4 +13,4 @@
 
 **Ссылка**
 
-* [Ссылка на проект](https://aksenov-m.github.io/russian-travel/)
+* [Ссылка на проект](https://aksenov-m.github.io/kuda-ya-poedu/index.html/)
