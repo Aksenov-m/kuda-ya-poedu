@@ -6,6 +6,8 @@
 @import url(../blocks/header/__link/header__link.css);
 @import url(../blocks/main-text/main-text.css);
 @import url(../blocks/flight/flight.css);
+@import url(../blocks/flight/__text/flight__text.css);
+@import url(../blocks/flight/__intro/flight__intro.css);
 @import url(../blocks/flight/__title/flight__title.css);
 @import url(../blocks/flight/__intro-image/flight__intro-image.css);
 @import url(../blocks/expectations/expectations.css);
@@ -18,7 +20,6 @@
 @import url(../blocks/grid-description/grid-description.css);
 @import url(../blocks/paragraphs/paragraphs.css);
 @import url(../blocks/content/__paragraph/content__paragraph.css);
-
 @import url(../blocks/reality/reality.css);
 @import url(../blocks/reality/__subtitle/reality__subtitle.css);
 @import url(../blocks/reality/__title/reality__title.css);
@@ -26,7 +27,5 @@
 @import url(../blocks/reality/__table-item/reality__table-item.css);
 @import url(../blocks/reality/__table-span-accent/reality__table-span-accent.css);
 @import url(../blocks/reality/__table-text/reality__table-text.css);
-
-
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__copyright/footer__copyright.css);

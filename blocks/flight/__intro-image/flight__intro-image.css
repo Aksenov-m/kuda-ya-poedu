@@ -1,12 +1,18 @@
 .flight__intro-image {
   /*border: 1px solid green;*/
-  max-width: 356px;
+  width: 356px;
   max-height: 356px;
-  /* position: absolute; */
+  /* position: absolute;  */
   object-fit: cover;
+  /* object-position: bottom;
   overflow: hidden;
-  /* object-position: right bottom; */
-  /* right: 0;
-  top: 0;
-  z-index: 2; */
+  right: 0;
+  top: 0;  */
+  /* z-index: 2; */
+} 
+
+@media screen and (max-width: 768px) {
+  .flight__intro-image {
+    width: 320px;
+   } 
 }

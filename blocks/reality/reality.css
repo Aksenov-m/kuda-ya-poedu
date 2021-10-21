@@ -1,4 +1,19 @@
 .reality {
-  padding: 66px;
+  /* padding: 66px; */
+  max-width: 1280px;
+  padding: 0;
+  padding-top: 135px;
+  padding-left: 73px;
+  padding-right: 90px;
   box-sizing: border-box;
+  margin: 0 auto;
+  margin-bottom: 115px;
+}
+
+@media screen and (max-width: 400px) {
+  .reality {
+    padding-top: 50px;
+    padding-left: 10px;
+    padding-right: 0;
+   } 
 }

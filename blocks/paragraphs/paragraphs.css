@@ -5,4 +5,5 @@
   margin: 0;
   /* margin-bottom: 21px; */
   padding: 0;
+  box-sizing: border-box;
 }

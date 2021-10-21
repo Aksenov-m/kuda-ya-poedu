@@ -1,0 +1,9 @@
+.flight__text {
+  padding-top: 116px;
+}
+
+@media screen and (max-width: 768px) {
+    .flight__text {
+     padding-top: 50px;
+     } 
+  }

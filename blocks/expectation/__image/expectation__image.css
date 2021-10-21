@@ -4,3 +4,9 @@
   object-fit: cover;
   grid-area: expectation-image; 
 }
+
+@media screen and (max-width: 430px) {
+  .expectation__image {
+    max-width: 320px;
+   } 
+}

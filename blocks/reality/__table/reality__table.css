@@ -1,6 +1,7 @@
 .reality__table {
   display: grid;
-  grid-template-columns: 26% 26% 26% 21%;
+  grid-template-columns: 26% 27% 26% 22%;
+  /* grid-template-columns: repeat(4, 1fr); */
   list-style: none;
   margin: 0;
   padding: 0;

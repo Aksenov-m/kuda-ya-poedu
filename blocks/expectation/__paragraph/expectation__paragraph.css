@@ -7,11 +7,12 @@
   color: #000;
   margin: 0;
   /* margin-bottom: 26px; */
-  border: 0; 
+  border: 0;
 }
 
 @media screen and (max-width: 768px) {
     .expectation__paragraph {
       font-size: 12px;
+      max-width: 300px;
      } 
   }

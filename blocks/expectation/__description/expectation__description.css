@@ -21,3 +21,11 @@
     padding-right: 10px;
    } 
 }
+
+@media screen and (max-width: 430px) {
+  .expectation__description {
+    align-items: center;
+    padding-left: 10px;
+    padding-right: 10px;
+   } 
+}

@@ -1,3 +1,8 @@
-.reality__table-span-accent.css {
-  
-}
+.reality__table-span-accent {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 1.2;
+  color: #000;
+  text-transform: uppercase;
+   }
