@@ -2,8 +2,8 @@
   /* font-size: 34px;
   line-height: 122%; */
   max-width: 490px;
-  padding-bottom: 92px;
-  margin: 0 auto;
+  padding-bottom: 115px;
+  margin: 0;
   margin-top: 35px;
   /* word-spacing: 10px; */
   box-sizing: border-box;
@@ -11,4 +11,11 @@
   font-size: 34px;
   line-height: 1.2;
   color: #000;
+}
+
+@media screen and (max-width: 400px) {
+  .reality__title {
+    text-align: center;
+    padding-bottom: 50px;
+   } 
 }
