@@ -11,6 +11,13 @@
   color: #000;
 }
 
+@media screen and (max-width: 1100px) {
+  .flight__title {
+    margin-bottom: 50px;
+   } 
+}
+
+
 @media screen and (max-width: 768px) {
   .flight__title {
     max-width: 300px;
