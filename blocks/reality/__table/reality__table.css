@@ -9,6 +9,6 @@
 
 @media screen and (max-width: 768px) {
   .reality__table {
-    grid-template-columns: repeat(auto-fit, minmax(264px, max-content));;
+    grid-template-columns: repeat(auto-fit, minmax(264px, max-content));
    }
 }

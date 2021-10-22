@@ -3,10 +3,12 @@
   line-height: 122%; */
   max-width: 490px;
   padding-bottom: 92px;
-  word-spacing: 10px;
+  margin: 0 auto;
+  margin-top: 35px;
+  /* word-spacing: 10px; */
   box-sizing: border-box;
-  font-weight: 900;
-  font-size: 35px;
+  font-weight: 700;
+  font-size: 34px;
   line-height: 1.2;
   color: #000;
 }

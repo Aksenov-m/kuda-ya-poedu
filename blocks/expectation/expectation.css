@@ -13,7 +13,7 @@
 
 @media screen and (max-width: 768px) {
     .expectation {
-      grid-template-columns: 1fr;
+      grid-template-columns: repeat(auto-fit, minmax(264px, 1fr));
       grid-template-rows: auto;
       grid-template-areas:
       "expectation-image"

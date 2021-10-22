@@ -1,6 +1,7 @@
 .header__link {
   padding: 0;
-  display: flex;
+  margin: 0;
+  /* display: flex; */
   /* padding-right: 36px; */
   font-style: normal;
   font-weight: 700;

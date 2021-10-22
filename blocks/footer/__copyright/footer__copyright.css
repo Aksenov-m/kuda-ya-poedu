@@ -2,6 +2,10 @@
   display: flex;
   margin: auto;
   font-size: 40px;
+  font-weight: 900;
+  font-size: 35px;
+  line-height: 1.2;
+  color: #000;
 }
 
 @media screen and (max-width: 768px) {

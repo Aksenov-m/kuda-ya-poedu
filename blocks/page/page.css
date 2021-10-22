@@ -1,5 +1,6 @@
 .page {
-  width: 100%;
+  font-family: 'Rubik','Helvetica Neue', 'Arial', 'sans-serif';
+  max-width: 100%;
   display: flex;
   min-width: 320px;
   flex-direction: column;
